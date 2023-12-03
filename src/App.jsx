@@ -1,4 +1,4 @@
-import { RouterProvider, createBrowserRouter, createHashRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from 'react-router-dom';
 import Layour from './Component/Layour/Layour';
 import Products from './Component/Products/Products';
 // import Brands from './Component/Brands/Brands';
@@ -16,7 +16,7 @@ import { Toaster } from 'react-hot-toast';
 import Cart from './Component/Cart/Cart';
 import Payment from './Component/Payment/Payment';
 import Allorders from './Component/Allorders/Allorders';
-import { Offline, Online } from "react-detect-offline";
+import { Offline } from "react-detect-offline";
 const route=createHashRouter([
 
 {path:'/' ,element:<Layour/> , children:[
