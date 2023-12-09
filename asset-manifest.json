@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/E-commerse/static/css/main.dba57694.css",
-    "main.js": "/github.io/E-commerse/static/js/main.5993dce3.js",
+    "main.js": "/github.io/E-commerse/static/js/main.b705145f.js",
     "static/js/787.f6b2eaaf.chunk.js": "/github.io/E-commerse/static/js/787.f6b2eaaf.chunk.js",
     "static/media/blog-img-2.jpeg": "/github.io/E-commerse/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
     "static/media/blog-img-1.jpeg": "/github.io/E-commerse/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
@@ -25,11 +25,11 @@
     "static/media/slick.woff": "/github.io/E-commerse/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/github.io/E-commerse/index.html",
     "main.dba57694.css.map": "/github.io/E-commerse/static/css/main.dba57694.css.map",
-    "main.5993dce3.js.map": "/github.io/E-commerse/static/js/main.5993dce3.js.map",
+    "main.b705145f.js.map": "/github.io/E-commerse/static/js/main.b705145f.js.map",
     "787.f6b2eaaf.chunk.js.map": "/github.io/E-commerse/static/js/787.f6b2eaaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dba57694.css",
-    "static/js/main.5993dce3.js"
+    "static/js/main.b705145f.js"
   ]
 }
