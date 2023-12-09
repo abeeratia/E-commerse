@@ -138,11 +138,11 @@ return errors
   
   <div className='m-auto w-75 py-4'>
 
-  {errMessage?<div className='alert alert-danger'>{errMessage}</div>:''}
-  {successmessage?<div className='alert alert-success'>{successmessage}</div>:''}
-
     <h2 className='py-3'>RegesterNow:</h2>
   <form onSubmit={formiObject.handleSubmit} >
+
+{errMessage?<div className='alert alert-danger'>{errMessage}</div>:''}
+  {successmessage?<div className='alert alert-success'>{successmessage}</div>:''}
 
 <label htmlFor="name">Name:</label>
 <input type="text" onBlur={formiObject.handleBlur} onChange={formiObject.handleChange}   value={formiObject.values.name} id='name'  placeholder='name' className='form-control mb-3'/>
